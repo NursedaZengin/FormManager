@@ -1,0 +1,141 @@
+﻿@model DB.Models.FormDto
+@{
+    ViewData["Title"] = "Form Yönetimi";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-right">
+                    <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Form Listesi</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="btn-group float-left">
+                            <a data-toggle="modal" data-target="#exampleModal" class="btn btn-info mr-4 add-btn add-form-btn">Yeni Form Oluştur</a>
+                            <h3 class="card-title ls">Form Listesi</h3>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <table id="example1" class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Form Adı</th>
+                                    <th>Tarih</th>
+                                    <th>Oluşturan</th>
+                                    <th>İşlem</th>
+                                </tr>
+                            </thead>
+                            <tbody id="sortable">
+                                @if (Model.FormList?.Count < 1)
+                                {
+                                    <tr>
+                                        <td colspan="3" style="text-align: center;">Henüz hiç kayıt yok</td>
+                                    </tr>
+                                }
+                                @foreach (var item in Model.FormList)
+                                {
+                                    var user = Model.UserList.Where(b => b.Id == item.CreatedBy).FirstOrDefault();
+                                    <tr data-id="@item.Id" data-sort="@item.Id">
+                                        <td>@item.Name</td>
+                                        <td>@DateConverter.getDatetime(item.CreatedAt)</td>
+                                        @if (user == null)
+                                        {
+                                            <td>-</td>
+                                        }
+                                        else
+                                        {
+                                            <td>@user.FullName</td>
+                                        }
+
+                                        <td style="padding: .45rem;width: 100px;">
+                                            <a href="/forms/@item.Id" class="btn btn-default edit-comment btn-icon mb-1" data-id="@item.Id" title="Formu Görüntüle">
+                                                <i class="far fa-edit"></i>
+                                            </a>
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content ">
+            <form id="form-add" enctype="multipart/form-data">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Yeni Form Oluştur</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body card-color">
+                    <div class="modal-body">
+                        <div class="col-md-12">
+                            <label for="Name" class="col-sm-2 col-form-label">Form Adı</label>
+                            <div class="col-sm-12">
+                                <input type="text" placeholder="Form Adı" class="form-control" value="" id="Name" name="Name" required>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <label for="alan1" class="col-sm-2 col-form-label">Açıklama</label>
+                            <div class="col-sm-12">
+                                <textarea cols="10" rows="6" class="form-control note" name="Description" id="Description"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-md-12 ">
+                            <div class="col-md-12">
+                                <h2>Form Alanları</h2>
+                                <div class="fields">
+                                    <div class="form-field ">
+                                        <div class="col-md-4">
+                                            <label for="FieldName" class=" col-form-label">Alan Adı</label>
+                                            <input type="text" placeholder="Alan Adı" class="form-control FieldName" value="" name="FieldName">
+                                        </div>
+                                        <div class="col-md-4">
+                                            <label for="DataType" class=" col-form-label">Alan Veri Tipi</label>
+                                            <select name="DataType" class="form-control DataType">
+                                                <option value="0" class="card-color">STRING</option>
+                                                <option value="1" class="card-color">NUMBER</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <label for="Required" class=" col-form-label">Alan Durumu</label>
+                                            <select name="Required" class="form-control Required">
+                                                <option value="0" class="card-color">Zorunlu Değil</option>
+                                                <option value="1" class="card-color">Zorunlu</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-md-1 display-center">
+                                            <button type="button" class="btn btn-info bgcolor-purple btn-field">+</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Geri</button>
+                    <button type="submit" class="btn btn-success ">Kaydet</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

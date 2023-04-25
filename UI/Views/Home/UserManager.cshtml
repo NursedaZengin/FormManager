@@ -1,0 +1,82 @@
+﻿@model IList<DB.Entities.User>
+@{
+    ViewData["Title"] = "Kullanıcı Yönetimi";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-right">
+                    <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Kullanıcılar</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="btn-group float-left">
+                            <a href="/user-manager/add" class="btn btn-info mr-4 add-btn"><i class="fas fa-notes-medical add-i"></i></a>
+                            <h3 class="card-title ls">Kullanıcı Listesi</h3>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <table id="example1" class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Ad Soyad</th>
+                                    <th>Kullanıcı Adı</th>
+                                    <th>Durum</th>
+                                    <th>İşlem</th>
+                                </tr>
+                            </thead>
+                            <tbody id="sortable">
+                                @foreach (var item in Model)
+                                {
+                                    <tr data-id="@item.Id" data-sort="@item.Id">
+                                        <td>@item.FullName</td>
+                                        <td>@item.UserName</td>
+                                        <td>
+                                            @if (item.Status == 1)
+                                            {
+                                                <i class="fas fa-check-circle "></i>
+                                                <span>Gösterimde</span> }
+                                            else
+                                            {
+                                                <i class="fas fa-times-circle"></i>
+                                                <span>Gizli</span>
+                                            }
+                                        </td>
+                                        <td style="padding: .45rem;width: 100px;">
+                                            <a href="/user-manager/edit?id=@item.Id" class="btn btn-default edit-comment btn-icon mb-1" data-id="@item.Id" title="Kullanıcı Düzenle">
+                                                <i class="far fa-edit"></i>
+                                            </a>
+                                            @if (item.Id != 1)
+                                            {
+                                                <button data-id="@item.Id" class="btn btn-danger btn-icon mb-1 ml-2 user-delete" title="Sil"> <i class="fas fa-trash"></i></button>
+                                            }
+                                        </td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<div class="modal fade" id="modal-default" style="display: none;" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" id="modalContent">
+
+        </div>
+    </div>
+</div>

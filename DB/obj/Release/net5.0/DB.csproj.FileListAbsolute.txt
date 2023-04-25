@@ -1,0 +1,132 @@
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Release\net5.0\DB.deps.json
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Release\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Release\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Release\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Release\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.deps.json
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.deps.json
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.deps.json
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.csprojAssemblyReference.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Release\net5.0\DB.pdb
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Release\net5.0\DB.deps.json
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\DB.csprojAssemblyReference.cache
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Release\net5.0\DB.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Release\net5.0\DB.deps.json
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Release\net5.0\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Release\net5.0\ref\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Release\net5.0\DB.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\ref\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Release\net5.0\DB.pdb
+D:\Github\izmitseyahat\DB\bin\Release\net5.0\DB.deps.json
+D:\Github\izmitseyahat\DB\bin\Release\net5.0\DB.dll
+D:\Github\izmitseyahat\DB\bin\Release\net5.0\ref\DB.dll
+D:\Github\izmitseyahat\DB\bin\Release\net5.0\DB.pdb
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\DB.csproj.AssemblyReference.cache
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\DB.dll
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\ref\DB.dll
+D:\Github\izmitseyahat\DB\obj\Release\net5.0\DB.pdb
+D:\GitHub Repository\izmitseyahat\DB\bin\Release\net5.0\DB.deps.json
+D:\GitHub Repository\izmitseyahat\DB\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\bin\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\DB.csproj.AssemblyReference.cache
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\obj\Release\net5.0\DB.pdb
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Release\net5.0\DB.deps.json
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\DB.csproj.AssemblyReference.cache
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\ref\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Release\net5.0\DB.pdb
+D:\kürselbeta-iade\DB\bin\Release\net5.0\DB.deps.json
+D:\kürselbeta-iade\DB\bin\Release\net5.0\DB.dll
+D:\kürselbeta-iade\DB\bin\Release\net5.0\ref\DB.dll
+D:\kürselbeta-iade\DB\bin\Release\net5.0\DB.pdb
+D:\kürselbeta-iade\DB\obj\Release\net5.0\DB.csproj.AssemblyReference.cache
+D:\kürselbeta-iade\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\kürselbeta-iade\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+D:\kürselbeta-iade\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+D:\kürselbeta-iade\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\kürselbeta-iade\DB\obj\Release\net5.0\DB.dll
+D:\kürselbeta-iade\DB\obj\Release\net5.0\ref\DB.dll
+D:\kürselbeta-iade\DB\obj\Release\net5.0\DB.pdb
+D:\ReturnCRM\DB\bin\Release\net5.0\DB.deps.json
+D:\ReturnCRM\DB\bin\Release\net5.0\DB.dll
+D:\ReturnCRM\DB\bin\Release\net5.0\ref\DB.dll
+D:\ReturnCRM\DB\bin\Release\net5.0\DB.pdb
+D:\ReturnCRM\DB\obj\Release\net5.0\DB.csproj.AssemblyReference.cache
+D:\ReturnCRM\DB\obj\Release\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReturnCRM\DB\obj\Release\net5.0\DB.AssemblyInfoInputs.cache
+D:\ReturnCRM\DB\obj\Release\net5.0\DB.AssemblyInfo.cs
+D:\ReturnCRM\DB\obj\Release\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\ReturnCRM\DB\obj\Release\net5.0\DB.dll
+D:\ReturnCRM\DB\obj\Release\net5.0\ref\DB.dll
+D:\ReturnCRM\DB\obj\Release\net5.0\DB.pdb

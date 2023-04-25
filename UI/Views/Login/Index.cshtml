@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "Giriş";
+    Layout = null;
+}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Yönetim Paneli</title>
+    <script src="~/assets/js/sweetalert2@11.js"></script>
+    <link rel="stylesheet" href="~/assets/css/login.css" />
+    <link rel="stylesheet" href="~/assets/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="wrapper fadeInDown">
+        <div id="formContent">
+            <div class="fadeIn first">
+                <h2>Form Yönetim Paneli</h2>
+            </div>
+            <form id="loginform">
+                <input type="text" id="Username" class="fadeIn second Username" name="UserName" placeholder="Kullanıcı Adı" maxlength="50">
+                <span id="error-user"></span>
+                <input type="password" id="Password" class="fadeIn third Password" name="Password" placeholder="Şifre" maxlength="80">
+                <span id="error-password"></span>
+                <button type="submit" class="fadeIn fourth mt-3 button login-btn" style="background-color: #D92912; ">Giriş Yap</button>
+            </form>
+            <div id="formFooter">
+                Powered by <a href="https://nursedazengin.com" target="_blank">Nurseda Zengin</a>
+            </div>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/assets/js/login.js"></script>
+</body>
+</html>

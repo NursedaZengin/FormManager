@@ -1,0 +1,185 @@
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\Business.deps.json
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\ref\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\Business.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\Core.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\Core.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\bin\Release\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.csprojAssemblyReference.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\ref\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\Business\obj\Release\net5.0\Business.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.deps.json
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\ref\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Core.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Core.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csprojAssemblyReference.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\ref\Business.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.deps.json
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\ref\Business.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Core.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Core.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\DB.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\ref\Business.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.deps.json
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Business.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Core.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\Core.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csprojAssemblyReference.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\Business\obj\Release\net5.0\Business.pdb
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\Business.deps.json
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\Business.dll
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\Business.pdb
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\Core.dll
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\Core.pdb
+D:\GitHub Repository\socialplus\SocialPlus\Business\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.csprojAssemblyReference.cache
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.dll
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\socialplus\SocialPlus\Business\obj\Release\net5.0\Business.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\Business.deps.json
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\Business.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\ref\Business.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\Business.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\Core.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\Core.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\bin\Release\net5.0\DB.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\ref\Business.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\Business\obj\Release\net5.0\Business.pdb
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\Business.deps.json
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\Business.dll
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\ref\Business.dll
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\Business.pdb
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\Core.dll
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\DB.dll
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\Core.pdb
+D:\Github\izmitseyahat\Business\bin\Release\net5.0\DB.pdb
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.AssemblyReference.cache
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.dll
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\ref\Business.dll
+D:\Github\izmitseyahat\Business\obj\Release\net5.0\Business.pdb
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\Business.deps.json
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\Business.dll
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\Business.pdb
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\Core.dll
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\Core.pdb
+D:\GitHub Repository\izmitseyahat\Business\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.AssemblyReference.cache
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.dll
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\izmitseyahat\Business\obj\Release\net5.0\Business.pdb
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\Business.deps.json
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\Business.dll
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\Business.pdb
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\Core.dll
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\Core.pdb
+D:\GitHub Repository\KodArge\kodArge\Business\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.csproj.AssemblyReference.cache
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.csproj.CopyComplete
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.dll
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\ref\Business.dll
+D:\GitHub Repository\KodArge\kodArge\Business\obj\Release\net5.0\Business.pdb
+D:\kürselbeta-iade\Business\bin\Release\net5.0\Business.deps.json
+D:\kürselbeta-iade\Business\bin\Release\net5.0\Business.dll
+D:\kürselbeta-iade\Business\bin\Release\net5.0\ref\Business.dll
+D:\kürselbeta-iade\Business\bin\Release\net5.0\Business.pdb
+D:\kürselbeta-iade\Business\bin\Release\net5.0\Core.dll
+D:\kürselbeta-iade\Business\bin\Release\net5.0\DB.dll
+D:\kürselbeta-iade\Business\bin\Release\net5.0\Core.pdb
+D:\kürselbeta-iade\Business\bin\Release\net5.0\DB.pdb
+D:\kürselbeta-iade\Business\obj\Release\net5.0\Business.csproj.AssemblyReference.cache
+D:\kürselbeta-iade\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\kürselbeta-iade\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+D:\kürselbeta-iade\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+D:\kürselbeta-iade\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\kürselbeta-iade\Business\obj\Release\net5.0\Business.dll
+D:\kürselbeta-iade\Business\obj\Release\net5.0\ref\Business.dll
+D:\kürselbeta-iade\Business\obj\Release\net5.0\Business.pdb
+D:\ReturnCRM\Business\bin\Release\net5.0\Business.deps.json
+D:\ReturnCRM\Business\bin\Release\net5.0\Business.dll
+D:\ReturnCRM\Business\bin\Release\net5.0\ref\Business.dll
+D:\ReturnCRM\Business\bin\Release\net5.0\Business.pdb
+D:\ReturnCRM\Business\bin\Release\net5.0\Core.dll
+D:\ReturnCRM\Business\bin\Release\net5.0\DB.dll
+D:\ReturnCRM\Business\bin\Release\net5.0\Core.pdb
+D:\ReturnCRM\Business\bin\Release\net5.0\DB.pdb
+D:\ReturnCRM\Business\obj\Release\net5.0\Business.csproj.AssemblyReference.cache
+D:\ReturnCRM\Business\obj\Release\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReturnCRM\Business\obj\Release\net5.0\Business.AssemblyInfoInputs.cache
+D:\ReturnCRM\Business\obj\Release\net5.0\Business.AssemblyInfo.cs
+D:\ReturnCRM\Business\obj\Release\net5.0\Business.csproj.CoreCompileInputs.cache
+D:\ReturnCRM\Business\obj\Release\net5.0\Business.dll
+D:\ReturnCRM\Business\obj\Release\net5.0\ref\Business.dll
+D:\ReturnCRM\Business\obj\Release\net5.0\Business.pdb

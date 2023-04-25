@@ -1,0 +1,62 @@
+﻿@model DB.Entities.User
+@{
+    ViewData["Title"] = "Kullanıcı Ekle";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+            </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-right">
+                    <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Kullanıcı Yönetimi</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-color">
+                    <div class="card-header">
+                        <h3 class="card-title  ls">Kullanıcı Ekle</h3>
+                    </div>
+                    <div class="card-body">
+                        <form id="user-add" enctype="multipart/form-data">
+                            <div class="form-group row">
+                                <label for="alan1" class="col-sm-2 col-form-label">Ad Soyad</label>
+                                <div class="col-sm-10">
+                                    <input type="text" placeholder="Ad Soyad" class="form-control" value="" id="FullName" name="FullName" required>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="alan1" class="col-sm-2 col-form-label">Kullanıcı Adı</label>
+                                <div class="col-sm-10">
+                                    <input type="text" placeholder="Kullanıcı Adı" class="form-control" value="" id="UserName" name="UserName" required>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="alan1" class="col-sm-2 col-form-label">Şifre</label>
+                                <div class="col-sm-10">
+                                    <input type="password" placeholder="Şifre" class="form-control" value="" id="Password" name="Password" required>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <hr style=" width: 100%;" />
+                            </div>
+                            <div class="form-group row">
+                                <label for="alan1" class="col-sm-2 col-form-label">İşlem</label>
+                                <div class="col-sm-10">
+                                    <button class="button special color2 btn-block">Kaydet</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

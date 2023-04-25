@@ -1,0 +1,247 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor _IHttpContextAccessor
+@{
+    var Session = _IHttpContextAccessor.HttpContext.Session.GetObject<DB.Entities.User>("User");
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Form Yönetim Paneli" />
+    <meta name="author" content="Nurseda Zengin" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <title> Form Yönetim Paneli</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- simplebar CSS-->
+    <link href="~/panel/css/simplebar.css" rel="stylesheet" />
+    <!-- Bootstrap core CSS-->
+    <link href="~/panel/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- animate CSS-->
+    <link href="~/panel/css/animate.css" rel="stylesheet" type="text/css" />
+    <!-- Icons CSS-->
+    <link href="~/panel/css/icons.css" rel="stylesheet" type="text/css" />
+    <!-- Sidebar CSS-->
+    <link href="~/panel/css/sidebar-menu.css" rel="stylesheet" />
+    <!-- Font Awesome -->
+    <link href="~/css/tooplate-style.css" rel="stylesheet" />
+    <link href="~/panel/plugins/sweetalert2/sweetalert2.min.css" />
+    <link href="~/panel/dist/css/lightbox.css" />
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/plugins/fontawesome-free/css/all.min.css">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+    <link rel="stylesheet" href="~/plugins/datatables-buttons/css/buttons.bootstrap4.min.css">
+    <!-- Custom Style-->
+    <link href="~/panel/css/app-style.css" rel="stylesheet" />
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/css/adminlte.min.css">
+    <style>
+        .w-100px {
+            width: 100px;
+        }
+        .ck-editor__main {
+            max-height: 500px;
+            overflow: auto;
+        }
+        #example1_filter > label {
+            color: #000 !important;
+        }
+        input[type="search"] {
+            border: solid 2px #b0b3b7 !important;
+        }
+        .card-color {
+            color: #6a6a6a !important;
+        }
+        .form-control {
+            -moz-appearance: none;
+            -webkit-appearance: none;
+            -ms-appearance: none;
+            appearance: none;
+            background: transparent;
+            border: solid 2px rgba(255, 255, 255, 0.25);
+            border-radius: 0.25rem;
+            color: #6a6a6a;
+            display: block;
+            outline: 0;
+            padding: 0 0.75rem;
+            text-decoration: none;
+            width: 100%;
+        }
+        .user {
+            /*   position: absolute;
+            top: 25px;
+            right: 50px;*/
+            font-size: 20px;
+            font-weight: 700;
+            border: 1px solid #bbbec1;
+            box-shadow: 0 2px 1px -1px rgb(0 0 0 / 20%), 0 1px 1px 0 rgb(0 0 0 / 14%), 0 1px 3px 0 rgb(0 0 0 / 12%) !important;
+            background-color: rgb(0 0 0 / 14%);
+            min-width: 150px;
+            padding: 5px;
+            height: 50px;
+            /*  border-radius: 5px;*/
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+        }
+            .user > p {
+                font-weight: 500;
+                padding: 0px;
+                margin: 0px;
+            }
+        #example1 {
+            color: #626161 !important;
+        }
+        .badge-yellow {
+            background-color: #ffc107 !important;
+            color: #fff;
+        }
+        .badge-pink {
+            background-color: #d9857b !important;
+            color: #fff;
+        }
+        .swal2-modal {
+            flex-direction: column;
+        }
+        #swal2-title {
+            display: block !important;
+        }
+        .content-wrapper {
+            background-color: unset !important;
+        }
+        .back-to-top {
+            background-color: #999 !important;
+        }
+        body {
+            height: inherit !important;
+            min-height: 970px !important;
+            background-attachment: fixed;
+            background-color: #e1e6e1 !important;
+            background-image: url(../../../images/bg.jpg);
+            background-repeat: repeat, repeat-x;
+            background-size: cover;
+            z-index: -1;
+        }
+        .fs-24 {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="sidebar-wrapper" data-simplebar="" data-simplebar-auto-hide="true">
+            <div class="brand-logo">
+                <a asp-area="" asp-controller="Home" asp-action="Index" class="text-gradient fs-24 ">
+                    Form Yönetim Paneli
+                </a>
+            </div>
+            <div class="user">
+                🙂
+                <p>@Session.FullName</p>
+            </div>
+            <ul class="sidebar-menu do-nicescrol">
+                <li>
+                    <a href="/">
+                        <i class="fas fa-home"></i><span>Form Yönetimi</span>
+                    </a>
+                </li>
+                @if (Session.Id == 1)
+                {
+                    <li>
+                        <a href="/user-manager">
+                            <i class="fas fa-users-cog"></i> <span>Kullanıcı Yönetimi</span>
+                        </a>
+                    </li>
+                }
+                <li>
+                    <a href="/Login/Exit">
+                        <i class="fas fa-share-square"></i><span>Çıkış</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <header class="topbar-nav">
+            <nav class=" navbar-expand fixed-top">
+                <ul class="navbar-nav mr-auto align-items-center">
+                    <li class="nav-item">
+                        <a class="nav-link toggle-menu  " href="javascript:void();">
+                            <i class="icon-menu menu-icon sidebar-btn fas fa-ellipsis-v"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <div class="clearfix"></div>
+        <div class="content-wrapper">
+            <div class="container-fluid">
+                @RenderBody()
+            </div>
+        </div>
+        <a href="javaScript:void();" class="back-to-top"><i class="fa fa-angle-double-up"></i> </a>
+        <footer class="footer">
+            <div class="container">
+                <div class="text-center">
+                    Copyright © 2023 Nurseda Zengin
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- jQuery-->
+    <script src="~/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap core JavaScript-->
+    <script src="~/js/jquery.inputmask.js"></script>
+    <script src="~/panel/js/custom.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <!-- simplebar js -->
+    <script src="~/assets/js/simplebar.js"></script>
+    <!-- sidebar-menu js -->
+    <script src="~/assets/js/sidebar-menu.js"></script>
+    <!-- Custom scripts -->
+    <script src="~/assets/js/app-script.js"></script>
+    <script src="~/assets/js/sweetalert2@11.js"></script>
+    <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+    <script src="~/panel/plugins/sweetalert2/sweetalert2.min.js"></script>
+    <script src="~/panel/dist/js/lightbox.js"></script>
+    <!-- Bootstrap 4 -->
+    <script src="~/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- DataTables  & Plugins -->
+    <script src="~/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/plugins/jszip/jszip.min.js"></script>
+    <script src="~/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+    <script src="~/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/js/adminlte.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+        $(function () {
+            $("#example1").DataTable({
+                "responsive": true, "lengthChange": false, "autoWidth": false,
+                "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+            }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+            $('#example2').DataTable({
+                "paging": true,
+                "lengthChange": false,
+                "searching": false,
+                "ordering": true,
+                "info": true,
+                "autoWidth": false,
+                "responsive": true,
+            });
+        });
+    </script>
+</body>
+</html>

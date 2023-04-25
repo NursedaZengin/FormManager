@@ -1,0 +1,1352 @@
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\appsettings.Development.json
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\appsettings.json
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.exe
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.deps.json
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.runtimeconfig.json
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.runtimeconfig.dev.json
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ref\UI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.CSharp.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.JSInterop.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.VisualBasic.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\mscorlib.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\netstandard.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.AppContext.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Buffers.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Collections.Concurrent.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Collections.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Collections.Immutable.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Collections.NonGeneric.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Collections.Specialized.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ComponentModel.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Configuration.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Console.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Data.Common.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Data.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.Debug.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.Process.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.Tools.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Drawing.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Drawing.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Dynamic.Runtime.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Formats.Asn1.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Globalization.Calendars.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Globalization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Globalization.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.Compression.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.FileSystem.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.Pipelines.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.Pipes.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Linq.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Linq.Expressions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Linq.Parallel.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Linq.Queryable.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Memory.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Http.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Http.Json.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.HttpListener.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Mail.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.NameResolution.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.NetworkInformation.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Ping.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Requests.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Security.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.ServicePoint.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.Sockets.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.WebClient.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.WebProxy.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Net.WebSockets.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Numerics.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Numerics.Vectors.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ObjectModel.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.Emit.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.Metadata.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Resources.Reader.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Resources.ResourceManager.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Resources.Writer.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Handles.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.InteropServices.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Loader.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Numerics.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.AccessControl.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Claims.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Permissions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Principal.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.Principal.Windows.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Security.SecureString.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ServiceModel.Web.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ServiceProcess.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Text.Encoding.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Text.Encodings.Web.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Text.Json.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Text.RegularExpressions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Channels.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Overlapped.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Tasks.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Thread.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.ThreadPool.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Threading.Timer.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Transactions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Transactions.Local.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.ValueTuple.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Web.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Web.HttpUtility.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Windows.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Windows.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.Linq.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.Serialization.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.XDocument.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.XmlDocument.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.XPath.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\refs\WindowsBase.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.Views.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\UI.Views.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Humanizer.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Composition.Convention.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Business.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Core.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\DB.dll
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Business.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\Core.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\bin\Release\net5.0\DB.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.csproj.AssemblyReference.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.AssemblyInfoInputs.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.AssemblyInfo.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.RazorAssemblyInfo.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.RazorAssemblyInfo.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\staticwebassets\UI.StaticWebAssets.Manifest.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\staticwebassets\UI.StaticWebAssets.xml
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\scopedcss\bundle\UI.styles.css
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.TagHelpers.input.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.TagHelpers.output.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.RazorCoreGenerate.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ContactForm.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ContactFormComing.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\FormEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\FormManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\Index.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\LangAdd.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\LangEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\LangManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\NavbarAdd.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\NavbarEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\NavbarManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\OfferForm.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\OfferFormComing.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ProjectAdd.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ProjectEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ProjectManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ReferanceAdd.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ReferanceEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\ReferanceManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\SettingEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\SliderAdd.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\SliderEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\SliderManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\TeamAdd.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\TeamEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\TeamManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\UserAdd.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\UserEdit.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Panel\UserManager.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Shared\_PanelLayout.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.RazorTargetAssemblyInfo.cache
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.RazorTargetAssemblyInfo.cs
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.Views.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.csproj.CopyComplete
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\ref\UI.dll
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.pdb
+D:\GitHub Repository\KodArge\kodArge\UI\obj\Release\net5.0\UI.genruntimeconfig.cache
+D:\kürselbeta-iade\UI\bin\Release\net5.0\appsettings.Development.json
+D:\kürselbeta-iade\UI\bin\Release\net5.0\appsettings.json
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.exe
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.deps.json
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.runtimeconfig.json
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.runtimeconfig.dev.json
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ref\UI.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.CSharp.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.JSInterop.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.VisualBasic.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\mscorlib.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\netstandard.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.AppContext.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Buffers.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Collections.Concurrent.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Collections.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Collections.Immutable.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Collections.NonGeneric.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Collections.Specialized.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ComponentModel.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Configuration.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Console.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Data.Common.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Data.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.Debug.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.Process.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.Tools.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Drawing.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Drawing.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Dynamic.Runtime.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Formats.Asn1.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Globalization.Calendars.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Globalization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Globalization.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.Compression.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.FileSystem.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.Pipelines.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.Pipes.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Linq.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Linq.Expressions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Linq.Parallel.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Linq.Queryable.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Memory.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Http.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Http.Json.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.HttpListener.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Mail.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.NameResolution.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.NetworkInformation.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Ping.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Requests.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Security.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.ServicePoint.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.Sockets.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.WebClient.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.WebProxy.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Net.WebSockets.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Numerics.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Numerics.Vectors.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ObjectModel.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.Emit.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.Metadata.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Resources.Reader.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Resources.ResourceManager.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Resources.Writer.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Handles.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.InteropServices.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Loader.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Numerics.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.AccessControl.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Claims.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Permissions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Principal.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.Principal.Windows.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Security.SecureString.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ServiceModel.Web.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ServiceProcess.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Text.Encoding.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Text.Encodings.Web.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Text.Json.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Text.RegularExpressions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Channels.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Overlapped.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Tasks.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Thread.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.ThreadPool.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Threading.Timer.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Transactions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Transactions.Local.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.ValueTuple.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Web.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Web.HttpUtility.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Windows.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Windows.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.Linq.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.Serialization.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.XDocument.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.XmlDocument.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.XPath.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\refs\WindowsBase.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.Views.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\UI.Views.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Humanizer.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Composition.Convention.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Business.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Core.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\DB.dll
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Business.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\Core.pdb
+D:\kürselbeta-iade\UI\bin\Release\net5.0\DB.pdb
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.csproj.AssemblyReference.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.AssemblyInfoInputs.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.AssemblyInfo.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.csproj.CoreCompileInputs.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.MvcApplicationPartsAssemblyInfo.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.MvcApplicationPartsAssemblyInfo.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.RazorAssemblyInfo.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.RazorAssemblyInfo.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\staticwebassets\UI.StaticWebAssets.Manifest.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\staticwebassets\UI.StaticWebAssets.xml
+D:\kürselbeta-iade\UI\obj\Release\net5.0\scopedcss\bundle\UI.styles.css
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.TagHelpers.input.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.TagHelpers.output.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.RazorCoreGenerate.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Home\ReturnAdd.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Home\ReturnEdit.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Home\ReturnManager.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Home\UserAdd.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Home\UserEdit.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Home\UserManager.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Shared\_Layout_.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.RazorTargetAssemblyInfo.cache
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.RazorTargetAssemblyInfo.cs
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.Views.pdb
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.csproj.CopyComplete
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.dll
+D:\kürselbeta-iade\UI\obj\Release\net5.0\ref\UI.dll
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.pdb
+D:\kürselbeta-iade\UI\obj\Release\net5.0\UI.genruntimeconfig.cache
+D:\ReturnCRM\UI\bin\Release\net5.0\appsettings.Development.json
+D:\ReturnCRM\UI\bin\Release\net5.0\appsettings.json
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.exe
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.deps.json
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.runtimeconfig.json
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.runtimeconfig.dev.json
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ref\UI.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.Session.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.CSharp.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Hosting.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Http.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Localization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Options.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.JSInterop.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Net.Http.Headers.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.VisualBasic.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.VisualBasic.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Win32.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\Microsoft.Win32.Registry.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\mscorlib.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\netstandard.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.AppContext.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Buffers.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Collections.Concurrent.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Collections.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Collections.Immutable.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Collections.NonGeneric.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Collections.Specialized.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ComponentModel.Annotations.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ComponentModel.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ComponentModel.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ComponentModel.TypeConverter.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Configuration.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Console.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Data.Common.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Data.DataSetExtensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Data.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.Contracts.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.Debug.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.EventLog.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.Process.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.StackTrace.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.Tools.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.TraceSource.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Diagnostics.Tracing.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Drawing.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Drawing.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Dynamic.Runtime.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Formats.Asn1.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Globalization.Calendars.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Globalization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Globalization.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.Compression.Brotli.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.Compression.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.Compression.FileSystem.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.Compression.ZipFile.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.FileSystem.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.FileSystem.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.FileSystem.Watcher.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.IsolatedStorage.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.MemoryMappedFiles.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.Pipelines.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.Pipes.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Linq.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Linq.Expressions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Linq.Parallel.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Linq.Queryable.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Memory.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Http.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Http.Json.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.HttpListener.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Mail.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.NameResolution.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.NetworkInformation.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Ping.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Requests.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Security.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.ServicePoint.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.Sockets.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.WebClient.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.WebHeaderCollection.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.WebProxy.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.WebSockets.Client.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Net.WebSockets.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Numerics.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Numerics.Vectors.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ObjectModel.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.DispatchProxy.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.Emit.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.Metadata.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Reflection.TypeExtensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Resources.Reader.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Resources.ResourceManager.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Resources.Writer.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Handles.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.InteropServices.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Intrinsics.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Loader.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Numerics.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Json.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Runtime.Serialization.Xml.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.AccessControl.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Claims.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Cng.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Csp.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Encoding.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Primitives.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Cryptography.Xml.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Permissions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Principal.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.Principal.Windows.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Security.SecureString.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ServiceModel.Web.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ServiceProcess.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Text.Encoding.CodePages.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Text.Encoding.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Text.Encoding.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Text.Encodings.Web.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Text.Json.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Text.RegularExpressions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Channels.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Overlapped.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Tasks.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Tasks.Parallel.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Thread.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.ThreadPool.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Threading.Timer.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Transactions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Transactions.Local.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.ValueTuple.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Web.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Web.HttpUtility.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Windows.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Windows.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.Linq.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.ReaderWriter.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.Serialization.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.XDocument.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.XmlDocument.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.XmlSerializer.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.XPath.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\System.Xml.XPath.XDocument.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\refs\WindowsBase.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.Views.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\UI.Views.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\Humanizer.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Composition.Convention.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Business.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Core.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\DB.dll
+D:\ReturnCRM\UI\bin\Release\net5.0\Business.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\Core.pdb
+D:\ReturnCRM\UI\bin\Release\net5.0\DB.pdb
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.csproj.AssemblyReference.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.AssemblyInfoInputs.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.AssemblyInfo.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.csproj.CoreCompileInputs.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.MvcApplicationPartsAssemblyInfo.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.MvcApplicationPartsAssemblyInfo.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.RazorAssemblyInfo.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.RazorAssemblyInfo.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\staticwebassets\UI.StaticWebAssets.Manifest.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\staticwebassets\UI.StaticWebAssets.xml
+D:\ReturnCRM\UI\obj\Release\net5.0\scopedcss\bundle\UI.styles.css
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.TagHelpers.input.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.TagHelpers.output.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.RazorCoreGenerate.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Home\ReturnAdd.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Home\ReturnEdit.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Home\ReturnManager.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Home\UserAdd.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Home\UserEdit.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Home\UserManager.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.RazorTargetAssemblyInfo.cache
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.RazorTargetAssemblyInfo.cs
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.Views.pdb
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.csproj.CopyComplete
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.dll
+D:\ReturnCRM\UI\obj\Release\net5.0\ref\UI.dll
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.pdb
+D:\ReturnCRM\UI\obj\Release\net5.0\UI.genruntimeconfig.cache

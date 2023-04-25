@@ -1,0 +1,75 @@
+﻿@model DB.Entities.User
+@{
+    ViewData["Title"] = "Kullanıcı Düzenle";
+}
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+          </div>
+            <div class="col-sm-6">
+                <ol class="breadcrumb float-right">
+                    <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
+                    <li class="breadcrumb-item active">Kullanıcı Yönetimi</li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card card-color">
+                    <div class="card-header">
+                        <h3 class="card-title  ls">Kullanıcı Düzenle</h3>
+                    </div>
+                    <div class="card-body">
+                        <form id="user-edit" enctype="multipart/form-data">
+                            <div class="form-group row">
+                                <div class="col-sm-10">
+                                    <input type="hidden" placeholder="" class="form-control" value="@Model.Id" id="Id" name="Id" required>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="FullName" class="col-sm-2 col-form-label"> Ad Soyad</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" value="@Model.FullName" id="FullName" name="FullName" />
+                                    <input type="hidden" class="form-control" value=""  />
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="UserName" class="col-sm-2 col-form-label">Kullanıcı Adı</label>
+                                <div class="col-sm-10">
+                                    <input type="text" class="form-control" value="@Model.UserName" disabled />
+                                    <input type="hidden" class="form-control" value="@Model.UserName" id="UserName" name="UserName" />
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="alan1" class="col-sm-2 col-form-label">Şifre</label>
+                                <div class="col-sm-10">
+                                    <input type="text" placeholder="Şifre Giriniz" class="form-control" value="" id="Password" name="Password" >
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="Status" class="col-sm-2 col-form-label">Durumu</label>
+                                <div class="col-sm-10">
+                                    <select id="Status" name="Status" class="form-control">
+                                        <!option value="1" @(Model.Status == 1 ? "selected" : "")  class="card-color">Açık</!option>
+                                        <!option value="0" @(Model.Status == 0 ? "selected" : "")  class="card-color">Kapalı</!option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label for="alan1" class="col-sm-2 col-form-label">İşlem</label>
+                                <div class="col-sm-10">
+                                    <button type="submit" class="button special color2 btn-block">Kaydet</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

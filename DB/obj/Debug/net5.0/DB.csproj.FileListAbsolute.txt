@@ -1,0 +1,362 @@
+C:\Users\Asus\source\repos\BosnakProject\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Asus\source\repos\BosnakProject\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\BosnakProject\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\BosnakProject\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\BosnakProject\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Asus\Desktop\BosnakProject\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Asus\Desktop\BosnakProject\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Asus\Desktop\BosnakProject\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\Desktop\BosnakProject\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\Desktop\BosnakProject\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\Proje\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\bin\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\bosnakborekcisiMobilApp\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Yazılım\Desktop\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.deps.json
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.pdb
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\bosnakborekcisiMobilApp\ProjeNow\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\bin\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.dll
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\Asus\source\repos\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.pdb
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Debug\net5.0\DB.deps.json
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Debug\net5.0\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\bin\Debug\net5.0\DB.pdb
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\socialplus\SocialPlus\DB\obj\Debug\net5.0\DB.pdb
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.dll
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\ref\DB.dll
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.pdb
+D:\github1\karcit\karcit-1\DB\bin\Debug\net5.0\DB.deps.json
+D:\github1\karcit\karcit-1\DB\bin\Debug\net5.0\DB.runtimeconfig.json
+D:\github1\karcit\karcit-1\DB\bin\Debug\net5.0\DB.runtimeconfig.dev.json
+D:\github1\karcit\karcit-1\DB\bin\Debug\net5.0\DB.dll
+D:\github1\karcit\karcit-1\DB\bin\Debug\net5.0\ref\DB.dll
+D:\github1\karcit\karcit-1\DB\bin\Debug\net5.0\DB.pdb
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.genruntimeconfig.cache
+D:\github1\karcit\karcit-1\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\rootk\Desktop\karcit-1\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\rootk\Desktop\karcit-1\DB\bin\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\karcit-1\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\karcit-1\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\rootk\Desktop\karcit-1\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+D:\GitHub Repository\karcit\karcit-2\DB\bin\Debug\net5.0\DB.deps.json
+D:\GitHub Repository\karcit\karcit-2\DB\bin\Debug\net5.0\DB.dll
+D:\GitHub Repository\karcit\karcit-2\DB\bin\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\karcit\karcit-2\DB\bin\Debug\net5.0\DB.pdb
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\DB.dll
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\karcit\karcit-2\DB\obj\Debug\net5.0\DB.pdb
+D:\github1\karcit\karcit-2\DB\bin\Debug\net5.0\DB.deps.json
+D:\github1\karcit\karcit-2\DB\bin\Debug\net5.0\DB.dll
+D:\github1\karcit\karcit-2\DB\bin\Debug\net5.0\ref\DB.dll
+D:\github1\karcit\karcit-2\DB\bin\Debug\net5.0\DB.pdb
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\DB.dll
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\ref\DB.dll
+D:\github1\karcit\karcit-2\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\bin\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\DB.csprojAssemblyReference.cache
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\DB.dll
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\rootk\Desktop\karcit-main\karcit-2\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\bin\Debug\net5.0\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\MB-PC-21\Documents\GitHub\perinus\perinos\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\GitHub Repository\perinus\perinos\DB\bin\Debug\net5.0\DB.deps.json
+D:\GitHub Repository\perinus\perinos\DB\bin\Debug\net5.0\DB.dll
+D:\GitHub Repository\perinus\perinos\DB\bin\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\perinus\perinos\DB\bin\Debug\net5.0\DB.pdb
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\DB.dll
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\perinus\perinos\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\obj\Debug\net5.0\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\bin\Debug\net5.0\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\ızmıt-seyehat\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\bin\Debug\net5.0\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\gizem\OneDrive\Masaüstü\izmitseyahat\DB\obj\Debug\net5.0\DB.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Debug\net5.0\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\PC\Desktop\Nurseda\izmitseyahat\DB\obj\Debug\net5.0\DB.pdb
+D:\Github\izmitseyahat\DB\bin\Debug\net5.0\DB.deps.json
+D:\Github\izmitseyahat\DB\bin\Debug\net5.0\DB.dll
+D:\Github\izmitseyahat\DB\bin\Debug\net5.0\ref\DB.dll
+D:\Github\izmitseyahat\DB\bin\Debug\net5.0\DB.pdb
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\DB.dll
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\ref\DB.dll
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\DB.pdb
+D:\Github\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\bin\Debug\net5.0\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\MB-PC-21\Documents\GitHub\izmitseyahat\DB\obj\Debug\net5.0\DB.pdb
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\DB.pdb
+D:\GitHub Repository\izmitseyahat\DB\bin\Debug\net5.0\DB.deps.json
+D:\GitHub Repository\izmitseyahat\DB\bin\Debug\net5.0\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\bin\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\izmitseyahat\DB\bin\Debug\net5.0\DB.pdb
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\izmitseyahat\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\KodArge\kodArge\DB\bin\Debug\net5.0\DB.deps.json
+D:\KodArge\kodArge\DB\bin\Debug\net5.0\DB.dll
+D:\KodArge\kodArge\DB\bin\Debug\net5.0\ref\DB.dll
+D:\KodArge\kodArge\DB\bin\Debug\net5.0\DB.pdb
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\DB.dll
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\ref\DB.dll
+D:\KodArge\kodArge\DB\obj\Debug\net5.0\DB.pdb
+D:\Github\KodArge\kodArge\DB\bin\Debug\net5.0\DB.deps.json
+D:\Github\KodArge\kodArge\DB\bin\Debug\net5.0\DB.dll
+D:\Github\KodArge\kodArge\DB\bin\Debug\net5.0\ref\DB.dll
+D:\Github\KodArge\kodArge\DB\bin\Debug\net5.0\DB.pdb
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\DB.dll
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\ref\DB.dll
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\DB.pdb
+D:\Github\KodArge\kodArge\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Debug\net5.0\DB.deps.json
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Debug\net5.0\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\bin\Debug\net5.0\DB.pdb
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\ref\DB.dll
+D:\GitHub Repository\KodArge\kodArge\DB\obj\Debug\net5.0\DB.pdb
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\DB.dll
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\ref\DB.dll
+D:\kürselbeta-iade\DB\obj\Debug\net5.0\DB.pdb
+D:\kürselbeta-iade\DB\bin\Debug\net5.0\DB.deps.json
+D:\kürselbeta-iade\DB\bin\Debug\net5.0\DB.dll
+D:\kürselbeta-iade\DB\bin\Debug\net5.0\ref\DB.dll
+D:\kürselbeta-iade\DB\bin\Debug\net5.0\DB.pdb
+D:\ReturnCRM\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\ReturnCRM\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReturnCRM\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\ReturnCRM\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\ReturnCRM\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\ReturnCRM\DB\obj\Debug\net5.0\DB.dll
+D:\ReturnCRM\DB\obj\Debug\net5.0\ref\DB.dll
+D:\ReturnCRM\DB\obj\Debug\net5.0\DB.pdb
+D:\ReturnCRM\DB\bin\Debug\net5.0\DB.deps.json
+D:\ReturnCRM\DB\bin\Debug\net5.0\DB.dll
+D:\ReturnCRM\DB\bin\Debug\net5.0\ref\DB.dll
+D:\ReturnCRM\DB\bin\Debug\net5.0\DB.pdb
+D:\LenaFormManager\DB\bin\Debug\net5.0\DB.deps.json
+D:\LenaFormManager\DB\bin\Debug\net5.0\DB.dll
+D:\LenaFormManager\DB\bin\Debug\net5.0\ref\DB.dll
+D:\LenaFormManager\DB\bin\Debug\net5.0\DB.pdb
+D:\LenaFormManager\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+D:\LenaFormManager\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\LenaFormManager\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+D:\LenaFormManager\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+D:\LenaFormManager\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+D:\LenaFormManager\DB\obj\Debug\net5.0\DB.dll
+D:\LenaFormManager\DB\obj\Debug\net5.0\ref\DB.dll
+D:\LenaFormManager\DB\obj\Debug\net5.0\DB.pdb

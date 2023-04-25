@@ -1,0 +1,65 @@
+﻿select.active {
+    background-color: #3cde93;
+    color: white;
+}
+.w-10 {
+    width: 10%;
+}
+.mw-50 {
+    max-width: 50%!important;
+}
+
+select.passive {
+    background-color: #f33535;
+    color: white;
+}
+.panel-logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hidden{display:none;}
+
+.setting-hr {
+    border-top: 1px solid rgba(1,0,0,.1);
+    width: 100%;
+}
+
+.bgclr {
+    background-color:#f4f6f9;
+}
+.btn {
+    border-radius: unset;
+}
+
+.btn-icon {
+    padding: .305rem .5rem !important;
+}
+
+.navbar-info {
+    background-color: #D92912;
+}
+
+.sidebar-dark-info .nav-sidebar > .nav-item > .nav-link.active, .sidebar-light-info .nav-sidebar > .nav-item > .nav-link.active {
+    background-color: #052553;
+    color: #fff;
+}
+
+/*.btn-info:not(:disabled):not(.disabled).active, .btn-info:not(:disabled):not(.disabled):active, .show > .btn-info.dropdown-toggle {
+    color: #fff;
+    background-color: #20ABDA;
+    border-color: #20ABDA;
+}*/
+
+.btn-info {
+    color: #fff;
+    background-color: #20ABDA;
+    border-color: #17a2b8;
+    box-shadow: none;
+}
+.card-info:not(.card-outline) > .card-header {
+    background-color: #f8f8f8;
+    color: black !important;
+}
